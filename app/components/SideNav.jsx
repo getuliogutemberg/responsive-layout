@@ -2,7 +2,7 @@ import React from 'react'
 
 const SideNav = () => {
     return (
-        <div >
+        <div className='flex-none w-20 bg-purple-400 flex flex-col justify-between p-4' >
         <div>
           <p>Nav Start</p>
           <ul>
