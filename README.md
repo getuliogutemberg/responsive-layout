@@ -1,6 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
-## Dashboard Responsivo com Next.js e Tailwind CSS
+# Dashboard Responsivo com Next.js e Tailwind CSS
 
 Este é um exemplo de aplicação de dashboard responsivo construída com Next.js e Tailwind CSS. Esta aplicação serve como um guia para mostrar como criar um dashboard bonito e responsivo usando estas tecnologias populares.
 
