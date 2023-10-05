@@ -1,10 +1,12 @@
 # Dashboard Responsivo com Next.js e Tailwind CSS
 
 Este é um exemplo de aplicação de dashboard responsivo construída com Next.js e Tailwind CSS. Esta aplicação serve como um guia para mostrar como criar um dashboard bonito e responsivo usando estas tecnologias populares.
+
 <div align="center">
-<img src="screenshots/xlscreen.png" width="750" >
-<img src="screenshots/smscreen.png" width="205" >
+<img src="screenshots/xlscreen.png" width="530" >
+<img src="screenshots/smscreen.png" width="150" >
 </div>
+
 ## Pré-requisitos
 
 Antes de começar, certifique-se de ter o seguinte instalado em sua máquina:
