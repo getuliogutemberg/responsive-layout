@@ -9,8 +9,6 @@ Antes de começar, certifique-se de ter o seguinte instalado em sua máquina:
 - Node.js:[Baixe aqui](https://nodejs.org/)
 - npm(gerenciador de pacotes Node.js): Vem com o Node.js
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
 ## Como Instalar
 
 Siga estas etapas para instalar e executar a aplicação em sua máquina:
